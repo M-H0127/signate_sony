@@ -1,5 +1,5 @@
 # patent_clas
-個人の研究用
+signate_sony(6月ぐらいまで)
 ```
 pip install git+https://github.com/M-H0127/signate_sony
 ```
